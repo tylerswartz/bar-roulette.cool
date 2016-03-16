@@ -1,5 +1,70 @@
 /**/
+/* FONT */
+
+@font-face {
+  font-family: 'futura';
+  src: 
+    url('../font/Futura.ttc') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/**/
 /* CSS */
+
+body {
+	background-color: #00CDD6;
+	color: #303134;
+	font-family: 'futura', helvetica;
+  font-weight: 500;
+  font-style: normal;
+}
+
+#headline {
+	text-align: center;
+}
+
+#headline h1 {
+	margin-bottom: 6px;
+}
+
+#lines {
+	margin: 0 auto;
+	width: 185px;
+}
+
+#hr-one {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 5px solid #9CFC53;
+  margin: 1em 0;
+  padding: 0;
+  width: 185px;
+  margin: 0;
+}
+
+#hr-two {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 5px solid #FD0C64;
+  margin: 1em 0;
+  padding: 0;
+  width: 92px;
+  margin: 0;
+}
+
+#sub-headline {
+	padding-top: 22px;
+	text-align: center
+}
+
+#sub-headline h2 {
+	font-size: 20px;
+}
+
+
 
 
 
