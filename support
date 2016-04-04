@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Support | Bar Roulette</title>
+		<link rel="Bar Roulette Icon" href="images/party.png"/>
+
+		<!-- styles -->
+		<link type="text/css" rel="stylesheet" href="styles.css"/>
+		
+		<!-- meta -->
+		<meta content="width=device-width, initial-scale=1.0" name="viewport">
+		<meta name="description" content="Support and frequently asked questions for the Bar Roulette iOS app."/>
+	
+		<!-- google tracking -->
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  		ga('create', 'UA-75270398-1', 'auto');
+  		ga('send', 'pageview');
+		</script>
+	</head>
+	<body>
+		<div id="support">
+			<h1>Support</h1>
+			<p id="support-sub-headline">You can find some answers to commonly asked questions below.</p>
+			<h3 class="support-section-space">Frequently Asked Questions</h3>
+			<p class="question">What is the Awesome upgrade?</p>
+			<p>If you upgrade to Awesome you'll be able use Foursquare as a source for bars, filter the bars by their price rating, and view all of the bars you've been to with Bar Roulette in the Bar History section. You will also get access to any new premium features we add...we've got some good ones in the works.
+			<p class="question">Does Bar Roulette work in my area?</p>
+			<p>Probably! If Foursquare/Yelp and Uber are in your town than Bar Roulette should work. However, it works best when there are a lot of reviews of bars on Yelp and Foursquare.</p>
+			<p class="question">Does Bar Roulette work outside of the United States?</p>
+			<p>It should if you have Yelp and Uber, but I haven't been able to test it everywhere. &#x1F603</p>
+			<p class="question">Can I pick the type of Uber selected?</p>
+			<p>No, we pick for you. The heiarchy that we use to choose is UberX > UberPOP > UberBlack.</p>
+			<p class="question">Why am I getting an error that something is wrong with my Uber account?</p>
+			<p>There are a number of reason why this error may be showing. The most common reasons are:</p>
+			<ul>
+				<li>Your payment information such as your billing address or credit card needs to be updated in your Uber account.</li>
+				<li>There is an outstanding balance on your Uber account.</li>
+				<li>You haven't confirmed your email address or phone number on your Uber account. Confirm it by visiting: <a href="https://riders.uber.com">https://riders.uber.com<a/>.</li>
+				<li>Your Uber account has been blocked from making requests. Please email support@uber.com.</li>
+			</ul>
+			<h3 class="support-section-space">Contact</h3>
+			<p>Don't see your question above? Email us at <a href="mailto:hello@barroulette.cool">hello@barroulette.cool</a> and we will get back to you quickly.</p>
+		</div>
+	</body>
+</html>
+
