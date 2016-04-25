@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Press | Bar Roulette</title>
+		<link rel="Bar Roulette Icon" href="images/party.png"/>
+
+		<!-- styles -->
+		<link type="text/css" rel="stylesheet" href="styles.css"/>
+		
+		<!-- meta -->
+		<meta content="width=device-width, initial-scale=1.0" name="viewport">
+		<meta name="description" content="Bar Roulette was designed and built by me, Tyler Swartz. This page contains more details and links to screenshots."/>
+	
+		<!-- google tracking -->
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  		ga('create', 'UA-75270398-1', 'auto');
+  		ga('send', 'pageview');
+		</script>
+	</head>
+	<body>
+		<div id="headline">
+			<h1>Bar Roulette.</h1>
+			<div id="lines">
+				<hr id="hr-one"/>
+				<hr id="hr-two"/>
+			</div>
+		</div>
+		<div id="press">
+			<h2>Hi, there!</h2>
+			<p>
+				Bar Roulette was designed and built by me, Tyler Swartz.
+			</p>
+			<p>
+				Bar Roulette is an iOS app that combines Uber, Yelp and Foursquare to take you to a highly rated bar. Just input your location and the neighborhood you'd like to go to, and we pick a top rated bar for you...but keep it a secret!  An Uber picks you up and delivers you to the chosen bar, revealing the bar when you've arrived. Enjoy the adventure and try to guess where you're headed. It even checks to make sure the bar is open so it works on Saturday morning...
+			</p>
+			<p>
+				A beta version of Bar Roulette was launched as a web-app in August and was very well received. With the MVP launched and reviewed, I began building the iOS version to incorporate additional features (many requested by users). The app now allows the user to pick the general destination neighborhood. This gives people some control over the adventure but it's still a roulette for the actual bar pick! The iOS version also includes Foursquare with the ability to filter the potential bars by price. Perfect to use when you are in the mood for an upscale cocktail bar.
+			</p>
+			<p>
+				Send me an email at <a href="mailto:hello@barroulette.cool">hello@barroulette.cool</a> if you have any questions or feedback.
+			</p>
+			<h2>App Store Link</h2>
+			<p><a href="#">Launching soon...</a></p>
+			<h2>Screenshots & Gifs</h2>
+			<ul>
+				<li><a href="images/Bar_Roulette_iOS_Screenshots_Small_April2016.png" target="_blank"><img src="images/Bar_Roulette_iOS_Screenshots_Small_April2016.png"></a></li>
+				<li><a href="images/screenshot1.png" target="_blank"><img src="images/screenshot1.png"></a></li>
+				<li><a href="images/screenshot2.png" target="_blank"><img src="images/screenshot2.png"></a></li>
+				<li><a href="images/screenshot3.png" target="_blank"><img src="images/screenshot3.png"></a></li>
+				<li><a href="images/screenshot4.png" target="_blank"><img src="images/screenshot4.png"></a></li>
+				<li><a href="images/BarRoulette_GIF.gif" target="_blank"><img src="images/BarRoulette_GIF.gif"></a></li>
+			</ul>
+		</div>
+	</body>
+</html>
+

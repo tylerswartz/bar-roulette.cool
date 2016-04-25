@@ -169,7 +169,7 @@ body {
 
 #app-button {
 	position: fixed;
-	bottom: 40px;
+	bottom: 85px;
 	left: 50%;
 	margin-left: -68px;
 	background-color: rgba(1,1,1,0.85);
@@ -194,7 +194,7 @@ body {
 /*TEMP EMAIL SIGN UP CSS*/
 #launch-notify {
 	position: fixed;
-	bottom: 40px;
+	bottom: 85px;
 	left: 50%;
 	margin-left: -110px;
 	background-color: rgba(1,1,1,0.85);
@@ -249,6 +249,39 @@ body {
 .question {
   text-decoration: underline;
 }
+
+#press {
+  max-width: 800px;
+  margin: 0 auto;  
+}
+
+#press h1,h2 {
+  text-align: center;
+}
+
+#press a {
+  text-decoration: none;
+  color: #303134;
+}
+
+#press a:hover {
+  text-decoration: underline;
+}
+
+#press ul {
+  list-style-type: none;
+  padding-left: 0px;
+  text-align: center;
+}
+
+#press li {
+  padding: 10px;
+}
+
+#press img {
+  height: 190px;
+}
+
 
 /*Mobile*/
 @media only screen and (max-width: 600px) {
