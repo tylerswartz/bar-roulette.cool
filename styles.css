@@ -180,7 +180,7 @@ body {
   text-align: center;
 }
 
-#app-button a {
+#app-button span {
 	color: #fff;
 	text-align: center;
 	text-decoration: none;
@@ -218,7 +218,8 @@ body {
 
 #privacy-policy {
   max-width: 800px;
-  margin: 0 auto;  
+  margin: 0 auto;
+  padding-bottom: 20px;
 }
 
 #privacy-policy h1,h2 {
@@ -227,7 +228,8 @@ body {
 
 #support {
   max-width: 800px;
-  margin: 0 auto;  
+  margin: 0 auto;
+  padding-bottom: 20px;
 }
 
 #support-sub-headline {
@@ -257,6 +259,10 @@ body {
 
 #press h1,h2 {
   text-align: center;
+}
+
+#press h2 {
+  padding-top: 15px;
 }
 
 #press a {
