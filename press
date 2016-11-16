@@ -35,7 +35,10 @@
 				Bar Roulette was designed and built by me, Tyler Swartz.
 			</p>
 			<p>
-				Bar Roulette is an iOS app that combines Uber, Yelp and Foursquare to take you to a highly rated bar. Just input your location and the neighborhood you'd like to go to, and we pick a top rated bar for you...but keep it a secret!  An Uber picks you up and delivers you to the chosen bar, revealing the bar when you've arrived. Enjoy the adventure and try to guess where you're headed. It even checks to make sure the bar is open so it works on Saturday morning...
+				Bar Roulette is an iOS app that combines Uber, Yelp and Foursquare to take you to a highly rated bar. Just input your location and the neighborhood you'd like to go to, and we pick a top rated bar for you...but keep it a secret! An Uber picks you up and delivers you to the chosen bar, revealing the bar when you've arrived. Enjoy the adventure and try to guess where you're headed. It even checks to make sure the bar is open so it works on Saturday morning...
+			</p>
+			<p>
+				You can also invite your friends to join your Roulette and meet you at the same bar! After you’ve requested an Uber in Bar Roulette, we can generate a code to share with your friends. They'll enter this code in their app to be taken to the same bar...and the bar is still kept a secret. Toast the adventure with your friends!
 			</p>
 			<p>
 				A beta version of Bar Roulette was launched as a web-app in August and was very well received. With the MVP launched and reviewed, I began building the iOS version to incorporate additional features (many requested by users). The app now allows the user to pick the general destination neighborhood. This gives people some control over the adventure but it's still a roulette for the actual bar pick! The iOS version also includes Foursquare with the ability to filter the potential bars by price. Perfect to use when you are in the mood for an upscale cocktail bar.
@@ -48,10 +51,11 @@
 			<h2>Screenshots & Gifs</h2>
 			<ul>
 				<li><a href="images/Bar_Roulette_iOS_Screenshots_Small_April2016.png" target="_blank"><img src="images/Bar_Roulette_iOS_Screenshots_Small_April2016.png"></a></li>
-				<li><a href="images/screenshot1.png" target="_blank"><img src="images/screenshot1.png"></a></li>
-				<li><a href="images/screenshot2.png" target="_blank"><img src="images/screenshot2.png"></a></li>
-				<li><a href="images/screenshot3.png" target="_blank"><img src="images/screenshot3.png"></a></li>
-				<li><a href="images/screenshot4.png" target="_blank"><img src="images/screenshot4.png"></a></li>
+				<li><a href="images/FullPhone1.png" target="_blank"><img src="images/FullPhone1.png"></a></li>
+				<li><a href="images/FullPhone2.png" target="_blank"><img src="images/FullPhone2.png"></a></li>
+				<li><a href="images/FullPhone3.png" target="_blank"><img src="images/FullPhone3.png"></a></li>
+				<li><a href="images/FullPhone4.png" target="_blank"><img src="images/FullPhone4.png"></a></li>
+				<li><a href="images/FullPhone5.png" target="_blank"><img src="images/FullPhone5.png"></a></li>
 				<li><a href="images/BarRoulette_GIF.gif" target="_blank"><img src="images/BarRoulette_GIF.gif"></a></li>
 			</ul>
 		</div>
