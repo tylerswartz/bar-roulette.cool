@@ -27,15 +27,15 @@
 			<p id="support-sub-headline">You can find some answers to commonly asked questions below.</p>
 			<h3 class="support-section-space">Frequently Asked Questions</h3>
 			<p class="question">What is the Awesome upgrade?</p>
-			<p>If you upgrade to Awesome you'll be able view all of the bars you've been to with Bar Roulette in the Bar History section. You will also get access to any new premium features we add...we've got some good ones in the works.
-			<p class="question">Do the price filters work with Yelp?</p>
-			<p>Yes. The price filters work with both Yelp and Foursquare.</p>
+			<p>If you upgrade to Awesome you'll be able to add price filters to the bar search and view all of the bars you've been to with Bar Roulette in the Bar History section. You will also get access to any new premium features I add...I've got some good ones in the works.
+			<p class="question">Do the price filters work with Yelp or Foursquare?</p>
+			<p>Yes. The price filters work with both Yelp and Foursquare, but you'll need to upgrade to use them.</p>
 			<p class="question">Does Bar Roulette work in my area?</p>
 			<p>Probably! If Foursquare/Yelp and Uber are in your town than Bar Roulette should work. However, it works best when there are a lot of reviews of bars on Yelp and Foursquare.</p>
 			<p class="question">Does Bar Roulette work outside of the United States?</p>
 			<p>It should if you have Yelp and Uber, but I haven't been able to test it everywhere. &#x1F603</p>
 			<p class="question">Can I pick the type of Uber selected?</p>
-			<p>No, we pick for you. The heiarchy that we use to choose is UberX > UberPOP > UberBlack.</p>
+			<p>No, we pick for you. The heiarchy that I use to choose is UberX > UberPOP > UberBlack.</p>
 			<p class="question">Why am I getting an error that something is wrong with my Uber account?</p>
 			<p>There are a number of reason why this error may be showing. The most common reasons are:</p>
 			<ul>
@@ -45,7 +45,7 @@
 				<li>Your Uber account has been blocked from making requests. Please email support@uber.com.</li>
 			</ul>
 			<h3 class="support-section-space">Contact</h3>
-			<p>Don't see your question above? Email us at <a href="mailto:hello@barroulette.cool">hello@barroulette.cool</a> and we will get back to you quickly.</p>
+			<p>Don't see your question above? Email us at <a href="mailto:hello@codeandkit.com">hello@codeandkit.com</a> and I will get back to you quickly.</p>
 		</div>
 	</body>
 </html>

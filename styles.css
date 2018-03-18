@@ -71,6 +71,18 @@ body {
 	margin: 0 auto;
 }
 
+#shutdown-notice {
+  
+  padding: 20px;
+  text-align: center;
+}
+
+#shutdown-notice p {
+  max-width: 700px;
+  text-align: center;
+  margin: auto;
+}
+
 #how-it-works h2 {
 	font-size: 30px;
 	margin-top: 36px;
